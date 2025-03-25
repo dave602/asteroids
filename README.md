@@ -1,11 +1,15 @@
 # Asteroids
-
+Boot.dev Guided Project
 # Controls
 W - Up
+
 A - Left
+
 S - Down
-D - RIght
+
+D - Right
+
 Space bar - Shoot
 
-#Objective 
+# Objective 
 Shoot all asteroids, if touched by an asteroid its Game Over! 
