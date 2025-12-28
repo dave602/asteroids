@@ -23,6 +23,7 @@ build/
 
 # Logs
 *.log
+game_state.jsonl
 
 # Game-specific files that shouldn't be tracked
 # (like save files or generated content)
